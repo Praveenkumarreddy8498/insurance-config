@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://192.168.1.20:5432/Insurance
-  username: camunda_dev
-  password: C@mu^d@D3v
+    username: camunda_dev
+    password: C@mu^d@D3v
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
     hibernate:
